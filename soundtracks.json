@@ -1,0 +1,454 @@
+{
+  "final fantasy x": {
+    "composer": "various artists",
+    "cover": "https://github.com/CitrineDragon/Images/blob/master/ffx.jpg?raw=true",
+    "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u",
+    "songs": [
+      {
+        "name": "zanarkand",
+        "composer": "nobuo uematsu",
+        "length": "3:04"
+      },
+      {
+        "name": "prelude",
+        "composer": "nobuo uematsu",
+        "length": "3:43"
+      },
+      {
+        "name": "tidus's theme",
+        "composer": "nobuo uematsu",
+        "length": "3:33"
+      },
+      {
+        "name": "Otherworld",
+        "composer": "bill xtillidiex muir",
+        "length": "3:15"
+      },
+      {
+        "name": "run !!",
+        "composer": "junya nakano",
+        "length": "2:40"
+      },
+      {
+        "name": "this is your story",
+        "composer": "junya nakano",
+        "length": "2:20"
+      },
+      {
+        "name": "creep",
+        "composer": "junya nakano",
+        "length": "2:48"
+      },
+      {
+        "name": "battle theme",
+        "composer": "nobuo uematsu",
+        "length": "3:21"
+      },
+      {
+        "name": "victory fanfare",
+        "composer": "nobuo uematsu",
+        "length": "1:35"
+      },
+      {
+        "name": "game Over",
+        "composer": "nobuo uematsu",
+        "length": "0:34"
+      },
+      {
+        "name": "out of the frying pan",
+        "composer": "nobuo uematsu",
+        "length": "3:06"
+      },
+      {
+        "name": "leap in the drink",
+        "composer": "junya nakano",
+        "length": "1:27"
+      },
+      {
+        "name": "underwater ruins",
+        "composer": "junya nakano",
+        "length": "4:16"
+      },
+      {
+        "name": "oui are al bhed",
+        "composer": "nobuo uematsu",
+        "length": "3:24"
+      },
+      {
+        "name": "enemy attack",
+        "composer": "junya nakano",
+        "length": "2:41"
+      },
+      {
+        "name": "the blitzers",
+        "composer": "nobuo uematsu",
+        "length": "3:53"
+      },
+      {
+        "name": "besaid",
+        "composer": "masashi hamauzu",
+        "length": "4:44"
+      },
+      {
+        "name": "spira unplugged",
+        "composer": "nobuo uematsu",
+        "length": "2:49"
+      },
+      {
+        "name": "hum of the fayth",
+        "composer": "nobuo uematsu",
+        "length": "0:43"
+      },
+      {
+        "name": "phantoms",
+        "composer": "junya nakano",
+        "length": "3:46"
+      },
+      {
+        "name": "the trials",
+        "composer": "nobuo uematsu",
+        "length": "3:33"
+      },
+      {
+        "name": "hymn - valefor",
+        "composer": "nobuo uematsu",
+        "length": "0:42"
+      },
+      {
+        "name": "the summoning",
+        "composer": "junya nakano",
+        "length": "0:38"
+      },
+      {
+        "name": "braska's daughter",
+        "composer": "nobuo uematsu",
+        "length": "3:45"
+      },
+      {
+        "name": "good night",
+        "composer": "nobuo uematsu",
+        "length": "0:08"
+      },
+      {
+        "name": "yuna's theme",
+        "composer": "nobuo uematsu",
+        "length": "3:30"
+      },
+      {
+        "name": "movement in green",
+        "composer": "nobuo uematsu",
+        "length": "3:16"
+      },
+      {
+        "name": "the sending",
+        "composer": "nobuo uematsu",
+        "length": "1:33"
+      },
+      {
+        "name": "calm before the storm",
+        "composer": "nobuo uematsu",
+        "length": "3:10"
+      },
+      {
+        "name": "hymn - ifrit",
+        "composer": "nobuo uematsu",
+        "length": "0:41"
+      },
+      {
+        "name": "luca",
+        "composer": "junya nakano",
+        "length": "3:41"
+      },
+      {
+        "name": "grand maester mika",
+        "composer": "junya nakano",
+        "length": "1:16"
+      },
+      {
+        "name": "decision on the dock",
+        "composer": "junya nakano",
+        "length": "1:12"
+      },
+      {
+        "name": "the splendid performance",
+        "composer": "masashi hamauzu",
+        "length": "3:32"
+      },
+      {
+        "name": "faceoff",
+        "composer": "masashi hamauzu",
+        "length": "2:07"
+      },
+      {
+        "name": "blitz off !",
+        "composer": "masashi hamauzu",
+        "length": "3:32"
+      },
+      {
+        "name": "auron's theme",
+        "composer": "nobuo uematsu",
+        "length": "2:44"
+      },
+      {
+        "name": "mi'ihen highroad",
+        "composer": "nobuo uematsu",
+        "length": "3:23"
+      },
+      {
+        "name": "chocobo jam",
+        "composer": "nobuo uematsu",
+        "length": "2:52"
+      },
+      {
+        "name": "the travel agency",
+        "composer": "masashi hamauzu",
+        "length": "3:05"
+      },
+      {
+        "name": "they may pass",
+        "composer": "nobuo uematsu",
+        "length": "1:10"
+      },
+      {
+        "name": "seymour's theme",
+        "composer": "nobuo uematsu",
+        "length": "3:06"
+      },
+      {
+        "name": "twilight",
+        "composer": "junya nakano",
+        "length": "4:40"
+      },
+      {
+        "name": "djose temple",
+        "composer": "nobuo uematsu",
+        "length": "3:18"
+      },
+      {
+        "name": "hymn - ixion",
+        "composer": "nobuo uematsu",
+        "length": "0:40"
+      },
+      {
+        "name": "ridess the shoopuf?",
+        "composer": "nobuo uematsu",
+        "length": "4:12"
+      },
+      {
+        "name": "rikku's theme",
+        "composer": "nobuo uematsu",
+        "length": "4:02"
+      },
+      {
+        "name": "guadosalam",
+        "composer": "junya nakano",
+        "length": "3:23"
+      },
+      {
+        "name": "thunder plains",
+        "composer": "masashi hamauzu",
+        "length": "3:44"
+      },
+      {
+        "name": "jecht's theme",
+        "composer": "nobuo uematsu",
+        "length": "2:33"
+      },
+      {
+        "name": "macalania woods",
+        "composer": "masashi hamauzu",
+        "length": "3:20"
+      },
+      {
+        "name": "the void",
+        "composer": "junya nakano",
+        "length": "2:19"
+      },
+      {
+        "name": "the temple players",
+        "composer": "junya nakano",
+        "length": "2:22"
+      },
+      {
+        "name": "seymour's ambition",
+        "composer": "nobuo uematsu",
+        "length": "2:14"
+      },
+      {
+        "name": "hymn - shiva",
+        "composer": "nobuo uematsu",
+        "length": "0:41"
+      },
+      {
+        "name": "pursuit",
+        "composer": "junya nakano",
+        "length": "2:10"
+      },
+      {
+        "name": "the burning sands",
+        "composer": "masashi hamauzu",
+        "length": "3:46"
+      },
+      {
+        "name": "peril",
+        "composer": "masashi hamauzu",
+        "length": "4:03"
+      },
+      {
+        "name": "the truth revealed",
+        "composer": "nobuo uematsu",
+        "length": "4:06"
+      },
+      {
+        "name": "launch",
+        "composer": "masashi hamauzu",
+        "length": "3:29"
+      },
+      {
+        "name": "the wedding",
+        "composer": "masashi hamauzu",
+        "length": "1:12"
+      },
+      {
+        "name": "assault",
+        "composer": "masashi hamauzu",
+        "length": "4:06"
+      },
+      {
+        "name": "tragedy",
+        "composer": "masashi hamauzu",
+        "length": "4:03"
+      },
+      {
+        "name": "believe",
+        "composer": "masashi hamauzu",
+        "length": "1:27"
+      },
+      {
+        "name": "via purifico",
+        "composer": "nobuo uematsu",
+        "length": "2:29"
+      },
+      {
+        "name": "hymn - bahamut",
+        "composer": "nobuo uematsu",
+        "length": "0:41"
+      },
+      {
+        "name": "moment of truth",
+        "composer": "masashi hamauzu",
+        "length": "3:39"
+      },
+      {
+        "name": "patricide",
+        "composer": "nobuo uematsu",
+        "length": "2:42"
+      },
+      {
+        "name": "suteki da ne(isn't it wonderful?)",
+        "composer": "rikki",
+        "length": "5:34"
+      },
+      {
+        "name": "yuna's decision",
+        "composer": "nobuo uematsu",
+        "length": "3:42"
+      },
+      {
+        "name": "lulu's theme",
+        "composer": "nobuo uematsu",
+        "length": "3:52"
+      },
+      {
+        "name": "braverly forward",
+        "composer": "nobuo uematsu",
+        "length": "3:25"
+      },
+      {
+        "name": "hymn - yojimbo",
+        "composer": "nobuo uematsu",
+        "length": "0:42"
+      },
+      {
+        "name": "servants of the mountain",
+        "composer": "masashi hamauzu",
+        "length": "4:42"
+      },
+      {
+        "name": "hymn - the ronso",
+        "composer": "nobuo uematsu",
+        "length": "0:42"
+      },
+      {
+        "name": "wandering",
+        "composer": "masashi hamauzu",
+        "length": "4:41"
+      },
+      {
+        "name": "a fleeting dream",
+        "composer": "nobuo uematsu",
+        "length": "4:24"
+      },
+      {
+        "name": "hymn - yunalesca",
+        "composer": "nobuo uematsu",
+        "length": "0:43"
+      },
+      {
+        "name": "challenge",
+        "composer": "masashi hamauzu",
+        "length": "4:18"
+      },
+      {
+        "name": "beyond the darkness",
+        "composer": "masashi hamauzu",
+        "length": "4:38"
+      },
+      {
+        "name": "gloom",
+        "composer": "junya nakano",
+        "length": "4:28"
+      },
+      {
+        "name": "hymn - spira",
+        "composer": "nobuo uematsu",
+        "length": "0:43"
+      },
+      {
+        "name": "the unsent laught",
+        "composer": "nobuo uematsu",
+        "length": "3:33"
+      },
+      {
+        "name": "fight with seymour",
+        "composer": "nobuo uematsu",
+        "length": "5:46"
+      },
+      {
+        "name": "hymn - anima",
+        "composer": "nobuo uematsu",
+        "length": "0:42"
+      },
+      {
+        "name": "a contest of aeons",
+        "composer": "junya nakano",
+        "length": "5:56"
+      },
+      {
+        "name": "final battle",
+        "composer": "masashi hamauzu",
+        "length": "5:50"
+      },
+      {
+        "name": "ending theme",
+        "composer": "nobuo uematsu",
+        "length": "5:30"
+      },
+      {
+        "name": "suteki da ne(isn't it wonderful?) - orchestra version",
+        "composer": "rikki",
+        "length": "6:19"
+      }
+    ]
+  }
+}
