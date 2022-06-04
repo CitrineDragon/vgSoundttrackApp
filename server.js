@@ -15,11 +15,10 @@ app.get('/', (request, response) => {
 
 app.get('/api/:name', (request, response) => {
   const albumName = request.params.name.toLowerCase();
-  console.log(albumName);
   if (data[albumName]) {
     response.json(data[albumName]);
   } else {
-    response.json(data['final fantasy x']);
+    response.json(data['unknown']);
   }
 });
 

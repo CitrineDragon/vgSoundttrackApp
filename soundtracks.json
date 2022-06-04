@@ -450,5 +450,17 @@
         "length": "6:19"
       }
     ]
+  },
+  "unknown": {
+    "composer": "various artists",
+    "cover": "https://github.com/CitrineDragon/Images/blob/master/ffx.jpg?raw=true",
+    "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u",
+    "songs": [
+      {
+        "name": "zanarkand",
+        "composer": "nobuo uematsu",
+        "length": "3:04"
+      }
+    ]
   }
 }
